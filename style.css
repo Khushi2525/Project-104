@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(to bottom, #ccff33 0%, #ffccff 100%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.name_of_objects{
+    color: crimson;
+    font-family:cursive;
+}
+.heading{
+    font-size: larger;
+    color:indianred;
+}
+#camera{
+    border: dashed;
+    border-color: mediumblue;
+    width: 300px;
+    height: 300px;
+}
+#result{
+    border: dashed mediumblue;
+    width: 300px;
+    height: 300px;
+}
+#take_snapshot{
+  width: 130px;  
+  height: 60px;
+}
+#identify_image{
+    width: 130px;  
+    height: 60px;
+  }
